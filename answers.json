@@ -1,0 +1,63 @@
+{
+  "Recipes with chicken as ingredient": [
+    "Mulligatawny Soup"
+  ],
+  "Three recipes with longest time taken to bake": [
+    "Amazing Apple Butter",
+    "Homemade Apple Cider",
+    "Apple Pie Filling"
+  ],
+  "Recipes for each number of servings": {
+    "4": [
+      "Sarah's Homemade Applesauce",
+      "Easy Apple Crisp with Oat Topping",
+      "Southern Fried Apples",
+      "Apple Hand Pies"
+    ],
+    "6": [
+      "Old-Fashioned Apple Dumplings",
+      "Apple Crisp - Perfect and Easy",
+      "Mulligatawny Soup",
+      "Caramel Apples",
+      "Easy Apple Cinnamon Muffins",
+      "Easy Apple Crisp with Pie Filling",
+      "Delicious Cinnamon Baked Apples",
+      "Waldorf Salad"
+    ],
+    "8": [
+      "Apple-Cranberry Crostada",
+      "Apple Pie by Grandma Ople",
+      "Easy Apple Cider",
+      "Apple-Cranberry Crisp",
+      "Apple Turnovers",
+      "The Best Caramel Apples",
+      "Sauteed Apples",
+      "Easy Apple Pie",
+      "Apple Crumb Pie"
+    ],
+    "10": [
+      "Awesome Sausage, Apple and Cranberry Stuffing",
+      "Debbie's Amazing Apple Bread"
+    ],
+    "12": [
+      "Apple Crisp",
+      "Apple Strudel Muffins"
+    ],
+    "16": [
+      "Homemade Apple Cider"
+    ],
+    "24": [
+      "German Apple Cake",
+      "Mom's Apple Fritters"
+    ],
+    "40": [
+      "Apple Pie Filling"
+    ],
+    "48": [
+      "Amazing Apple Butter"
+    ],
+    "56": [
+      "Canned Apple Pie Filling"
+    ]
+  }
+}
