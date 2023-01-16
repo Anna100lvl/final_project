@@ -12,7 +12,7 @@ def create_data_frame(file_name: str) -> pd.core.frame.DataFrame:
 
 def rework_time_to_minutes(time_string: str) -> int:
   """Функция, которая преобразовывает строку формата "% hrs % mins" в целочисленное значение минут, вычисленное для этой строки.
-  Наример, '3 hrs 15 mins' будет == 195. При вводе строки неправильного формата вернет 0."""
+  Например, '3 hrs 15 mins' будет == 195. При вводе строки неправильного формата вернет 0."""
   time_string = str(time_string)
   total_minutes = 0 
   time_list = time_string.split()
